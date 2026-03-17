@@ -87,7 +87,7 @@ The system uses the **MQ-135 resistive gas sensing** method:
 |---|---|
 | [📄 Full Report](docs/COE202_Report.pdf) | Complete technical report |
 | [📄 Course Poster](docs/COE202_Poster.pdf) | COE-202 Poster |
-| [📐 Enclosure Drawing](hardware/final_box.PDF) | SolidWorks assembly drawing |
+| [📐 Enclosure Drawing](docs/final_box.PDF) | SolidWorks assembly drawing |
 
 ---
 
