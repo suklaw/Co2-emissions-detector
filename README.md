@@ -91,15 +91,6 @@ The system uses the **MQ-135 resistive gas sensing** method:
 
 ---
 
-## Team
-
-| Name | Role |
-|---|---|
-| Sultanah Almutairi | Hardware & Software Development |
-| Maryam Alaloan | Hardware & Software Development |
-| Reef Alroqeei | Hardware & Software Development |
-| Eng. Sabrina Khelifa | Project Supervisor |
-
 **Course:** Digital Logic Design — COE-202  
 **Year:** 2023–2024
 
@@ -109,6 +100,6 @@ The system uses the **MQ-135 resistive gas sensing** method:
 
 This work is licensed under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
 
-© 2024 Sultanah Almutairi, Maryam Alaloan, Reef Alroqeei
+© 2024 Sultanah Almutairi
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
